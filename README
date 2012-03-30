@@ -1,0 +1,3 @@
+Interwiki article count statistics
+
+Run printDict.py to dump dictionary of stats to a pickle
